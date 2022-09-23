@@ -13,4 +13,3 @@
  [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
  [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
  [“Russia”, “Denmark”, “Kazan”] → []
-![Контрольная работа](https://user-images.githubusercontent.com/109304623/192026798-73cb7e0e-cdcc-49f6-8a44-9f93039792ff.png)
