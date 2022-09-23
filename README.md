@@ -13,3 +13,4 @@
  [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
  [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
  [“Russia”, “Denmark”, “Kazan”] → []
+<img width="327" alt="Снимок экрана 2022-09-21 в 20 32 04" src="https://user-images.githubusercontent.com/109304623/192026965-6ca2071d-4456-4797-a6de-f47952f2e06c.png">
